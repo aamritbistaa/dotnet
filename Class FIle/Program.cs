@@ -49,17 +49,13 @@ namespace Class_FIle
             List<Member> memberlist = new List<Member>();
             Dictionary<string, Member> memberDictionary = new Dictionary<string, Member>();
             List<Member> validMembersList = new List<Member>();
-
-
-
-
-
             public Readfile(string path)
             {
                 string line;
                 string id, firstname, lastname, address, city, state, zip;
                 Member obj;
 
+                #region load and read file
                 using (StreamReader sr = new StreamReader(path))
                 {
                     while ((line = sr.ReadLine()) != null)
@@ -109,7 +105,8 @@ namespace Class_FIle
                         //object created
                     }
                 }
-                //getValidMembers(memberlist);
+                #endregion
+
                 #region eliminate duplicate 
                 //to remove duplicate entry of memberlist
                 foreach (var item in memberlist)
@@ -127,22 +124,15 @@ namespace Class_FIle
 
                 Console.WriteLine(memberDictionary.Count);
 
-
                 foreach (var item in memberDictionary)
                 {
                     //Console.WriteLine(item.Key);
                     //Console.WriteLine(item.Value.firstname);
                     validMembersList.Add(item.Value);
                 }
-
-
                 WriteFile(validMembersList);
-
-
                 #endregion
             }
-
-
 
             public void WriteFile(List<Member> validmemberlist)
             {
@@ -155,27 +145,20 @@ namespace Class_FIle
                     var city = item.city;
                     var state = item.state;
                     var zip = item.zip;
-                    
-                //Console.WriteLine(id+ firstname+ lastname+ address+ city+ state+ zip);
-                if (!File.Exists(state + ".csv"))
-                {
-                    FileStream fileStream = File.Create((state + ".csv"));
-                    Console.WriteLine(state + "file created");
-                    fileStream.Close();
-                }
-                using (StreamWriter sw = new StreamWriter((state + ".csv"), true))
-                {
-                    sw.WriteLine(id + ", " + firstname + ", " + lastname + ", " + address + ", " + city + ", " + zip);
-                    sw.Close();
-                }
-                    //check if file exist
-                    //check state of each object (this.state)
-                    //open that state file 
-                    //write the content
-                    //(id,firstname,lastname,address,city,state,zip)
-                }
 
-
+                    //Console.WriteLine(id+ firstname+ lastname+ address+ city+ state+ zip);
+                    if (!File.Exists(state + ".csv"))
+                    {
+                        FileStream fileStream = File.Create((state + ".csv"));
+                        Console.WriteLine(state + "file created");
+                        fileStream.Close();
+                    }
+                    using (StreamWriter sw = new StreamWriter((state + ".csv"), true))
+                    {
+                        sw.WriteLine(id + ", " + firstname + ", " + lastname + ", " + address + ", " + city + ", " + zip);
+                        sw.Close();
+                    }
+                }
             }
 
         }
