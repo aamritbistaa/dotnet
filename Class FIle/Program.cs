@@ -39,27 +39,6 @@ namespace Class_FIle
                 this.zip = zip;
             }
 
-            public void WriteFile()
-            {
-                //Console.WriteLine(id+ firstname+ lastname+ address+ city+ state+ zip);
-                if (!File.Exists(state + ".csv"))
-                {
-                    FileStream fileStream = File.Create((state + ".csv"));
-                    Console.WriteLine(state + "file created");
-                    fileStream.Close();
-                }
-                using (StreamWriter sw = new StreamWriter((state + ".csv"), true))
-                {
-                    sw.WriteLine(id + ", " + firstname + ", " + lastname + ", " + address + ", " + city + ", " + zip);
-                    sw.Close();
-                }
-                //check if file exist
-                //check state of each object (this.state)
-                //open that state file 
-                //write the content
-                //(id,firstname,lastname,address,city,state,zip)
-
-            }
 
         }
 
