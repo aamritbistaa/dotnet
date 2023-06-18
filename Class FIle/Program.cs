@@ -19,6 +19,10 @@ namespace Class_FIle
     {
         class Member
         {
+            public Member()
+            {
+                  
+            }
             public string id { get; set; }
             public string firstname { get; set; }
             public string lastname { get; set; }
@@ -106,9 +110,67 @@ namespace Class_FIle
                     }
                 }
                 #endregion
+                #region remove redundancy with list only
 
-                #region eliminate duplicate 
+                Console.WriteLine(memberlist.Count+"memberlist count");
+
+                foreach (var item in memberlist)
+                {
+
+                    //Console.WriteLine(item.id);
+                    Console.WriteLine(validMembersList.Count + "valid member list");
+                    if (validMembersList.Count == 0)
+                    {
+                        validMembersList.Add(item);
+                    }
+                    if(validMembersList.Count != 0)
+                    {
+                        bool containsitem1 = false;
+                        Member repeateditem = new Member();
+
+                        foreach (var item1 in validMembersList)
+                        {
+                            if(item1.firstname == item.firstname)
+                            {
+                                containsitem1 = true;
+                                item.id = item1.id;
+                                item.firstname = item1.firstname;
+                                item.lastname = item1.lastname;
+                                item.address = item1.address;
+                                item.city = item1.city;
+                                item.state = item1.state;
+                                item.zip = item1.zip;
+                                //repeateditem = new Member(item1.id,item1.firstname,item1.lastname,item1.address,item1.city,item1.state,item1.zip);
+
+                                Console.WriteLine("list contains item");
+                            }
+                        }
+
+                        if (containsitem1 == false)
+                        {
+                            validMembersList.Add(item);
+                        }
+                    }
+                   
+                }
+                
+                Console.WriteLine("Valid member list: "+validMembersList.Count);
+
+                foreach (var item in validMembersList)
+                {
+                    Console.WriteLine(item.id);
+                }
+                WriteFile(validMembersList);
+
+
+                
+
+
+                #endregion
+
+                #region eliminate duplicate with the help of dictionary
                 //to remove duplicate entry of memberlist
+                /*
                 foreach (var item in memberlist)
                 {
                     if (memberDictionary.ContainsKey(item.firstname))
@@ -118,7 +180,7 @@ namespace Class_FIle
                     }
                     else
                     {
-                    memberDictionary.Add(item.firstname, item);
+                        memberDictionary.Add(item.firstname, item);
                     }
                 }
 
@@ -131,6 +193,7 @@ namespace Class_FIle
                     validMembersList.Add(item.Value);
                 }
                 WriteFile(validMembersList);
+                */
                 #endregion
             }
 
