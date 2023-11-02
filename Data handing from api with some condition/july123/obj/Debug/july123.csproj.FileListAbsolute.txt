@@ -1,0 +1,11 @@
+C:\Users\amritbista\source\repos\july123\july123\bin\Debug\july123.exe.config
+C:\Users\amritbista\source\repos\july123\july123\bin\Debug\july123.exe
+C:\Users\amritbista\source\repos\july123\july123\bin\Debug\july123.pdb
+C:\Users\amritbista\source\repos\july123\july123\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amritbista\source\repos\july123\july123\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amritbista\source\repos\july123\july123\obj\Debug\july123.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\july123\july123\obj\Debug\july123.csproj.SuggestedBindingRedirects.cache
+C:\Users\amritbista\source\repos\july123\july123\obj\Debug\july123.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\july123\july123\obj\Debug\july123.csproj.CopyComplete
+C:\Users\amritbista\source\repos\july123\july123\obj\Debug\july123.exe
+C:\Users\amritbista\source\repos\july123\july123\obj\Debug\july123.pdb

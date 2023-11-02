@@ -1,0 +1,8 @@
+C:\Users\amritbista\source\repos\DI_25thjune\DI_25thjune\bin\Debug\DI_25thjune.exe.config
+C:\Users\amritbista\source\repos\DI_25thjune\DI_25thjune\bin\Debug\DI_25thjune.exe
+C:\Users\amritbista\source\repos\DI_25thjune\DI_25thjune\bin\Debug\DI_25thjune.pdb
+C:\Users\amritbista\source\repos\DI_25thjune\DI_25thjune\obj\Debug\DI_25thjune.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\DI_25thjune\DI_25thjune\obj\Debug\DI_25thjune.csproj.SuggestedBindingRedirects.cache
+C:\Users\amritbista\source\repos\DI_25thjune\DI_25thjune\obj\Debug\DI_25thjune.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\DI_25thjune\DI_25thjune\obj\Debug\DI_25thjune.exe
+C:\Users\amritbista\source\repos\DI_25thjune\DI_25thjune\obj\Debug\DI_25thjune.pdb

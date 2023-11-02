@@ -1,0 +1,21 @@
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Serializing and Deserializing JSON.exe.config
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Serializing and Deserializing JSON.exe
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Serializing and Deserializing JSON.pdb
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.csproj.SuggestedBindingRedirects.cache
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.csproj.CopyComplete
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.exe
+C:\Users\amritbista\source\repos\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.pdb
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Serializing and Deserializing JSON.exe.config
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Serializing and Deserializing JSON.exe
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Serializing and Deserializing JSON.pdb
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.csproj.AssemblyReference.cache
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.csproj.CoreCompileInputs.cache
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.csproj.CopyComplete
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.exe
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Serializing and Deserializing JSON\Serializing and Deserializing JSON\obj\Debug\Serializing and Deserializing JSON.pdb

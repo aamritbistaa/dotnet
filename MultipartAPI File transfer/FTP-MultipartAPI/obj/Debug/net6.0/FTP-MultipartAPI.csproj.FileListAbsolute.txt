@@ -1,0 +1,69 @@
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.exe
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.deps.json
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.runtimeconfig.json
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.dll
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.pdb
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.AssemblyInfoInputs.cache
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.AssemblyInfo.cs
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets\msbuild.FTP-MultipartAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FTP-MultipartAPI.props
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FTP-MultipartAPI.props
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FTP-MultipartAPI.props
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\scopedcss\bundle\FTP-MultipartAPI.styles.css
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.csproj.CopyComplete
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.dll
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\refint\FTP-MultipartAPI.dll
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.pdb
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.genruntimeconfig.cache
+C:\Users\amritbista\source\repos\FTP-MultipartAPI\FTP-MultipartAPI\obj\Debug\net6.0\ref\FTP-MultipartAPI.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.exe
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.deps.json
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.runtimeconfig.json
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\FTP-MultipartAPI.pdb
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.AssemblyInfoInputs.cache
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.AssemblyInfo.cs
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets\msbuild.FTP-MultipartAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FTP-MultipartAPI.props
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FTP-MultipartAPI.props
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FTP-MultipartAPI.props
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\scopedcss\bundle\FTP-MultipartAPI.styles.css
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.csproj.CopyComplete
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\refint\FTP-MultipartAPI.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.pdb
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\FTP-MultipartAPI.genruntimeconfig.cache
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\obj\Debug\net6.0\ref\FTP-MultipartAPI.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amritbista\source\repos\MultipartAPI File transfer\FTP-MultipartAPI\bin\Debug\net6.0\WebDriver.dll

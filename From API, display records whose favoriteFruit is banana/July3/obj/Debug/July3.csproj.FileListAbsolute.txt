@@ -1,0 +1,21 @@
+C:\Users\amritbista\source\repos\July3\July3\bin\Debug\July3.exe.config
+C:\Users\amritbista\source\repos\July3\July3\bin\Debug\July3.exe
+C:\Users\amritbista\source\repos\July3\July3\bin\Debug\July3.pdb
+C:\Users\amritbista\source\repos\July3\July3\obj\Debug\July3.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\July3\July3\obj\Debug\July3.csproj.SuggestedBindingRedirects.cache
+C:\Users\amritbista\source\repos\July3\July3\obj\Debug\July3.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\July3\July3\obj\Debug\July3.exe
+C:\Users\amritbista\source\repos\July3\July3\obj\Debug\July3.pdb
+C:\Users\amritbista\source\repos\July3\July3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amritbista\source\repos\July3\July3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amritbista\source\repos\July3\July3\obj\Debug\July3.csproj.CopyComplete
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\bin\Debug\July3.exe.config
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\bin\Debug\July3.exe
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\bin\Debug\July3.pdb
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\obj\Debug\July3.csproj.AssemblyReference.cache
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\obj\Debug\July3.csproj.CoreCompileInputs.cache
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\obj\Debug\July3.csproj.CopyComplete
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\obj\Debug\July3.exe
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\July3\July3\obj\Debug\July3.pdb

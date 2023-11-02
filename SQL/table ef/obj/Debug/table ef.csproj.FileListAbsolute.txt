@@ -1,0 +1,13 @@
+C:\Users\amritbista\source\repos\table ef\table ef\obj\Debug\table ef.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\table ef\table ef\obj\Debug\table ef.csproj.SuggestedBindingRedirects.cache
+C:\Users\amritbista\source\repos\table ef\table ef\obj\Debug\table ef.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\table ef\table ef\bin\Debug\table ef.exe.config
+C:\Users\amritbista\source\repos\table ef\table ef\bin\Debug\table ef.exe
+C:\Users\amritbista\source\repos\table ef\table ef\bin\Debug\table ef.pdb
+C:\Users\amritbista\source\repos\table ef\table ef\bin\Debug\EntityFramework.dll
+C:\Users\amritbista\source\repos\table ef\table ef\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amritbista\source\repos\table ef\table ef\bin\Debug\EntityFramework.xml
+C:\Users\amritbista\source\repos\table ef\table ef\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amritbista\source\repos\table ef\table ef\obj\Debug\table ef.csproj.CopyComplete
+C:\Users\amritbista\source\repos\table ef\table ef\obj\Debug\table ef.exe
+C:\Users\amritbista\source\repos\table ef\table ef\obj\Debug\table ef.pdb

@@ -1,0 +1,8 @@
+C:\Users\amritbista\source\repos\Class-interface\Class-interface\bin\Debug\Class-interface.exe.config
+C:\Users\amritbista\source\repos\Class-interface\Class-interface\bin\Debug\Class-interface.exe
+C:\Users\amritbista\source\repos\Class-interface\Class-interface\bin\Debug\Class-interface.pdb
+C:\Users\amritbista\source\repos\Class-interface\Class-interface\obj\Debug\Class-interface.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\Class-interface\Class-interface\obj\Debug\Class-interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\amritbista\source\repos\Class-interface\Class-interface\obj\Debug\Class-interface.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\Class-interface\Class-interface\obj\Debug\Class-interface.exe
+C:\Users\amritbista\source\repos\Class-interface\Class-interface\obj\Debug\Class-interface.pdb

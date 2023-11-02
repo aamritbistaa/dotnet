@@ -1,0 +1,15 @@
+C:\Users\amritbista\source\repos\Constructor Injection\Constructor Injection\bin\Debug\Constructor Injection.exe.config
+C:\Users\amritbista\source\repos\Constructor Injection\Constructor Injection\bin\Debug\Constructor Injection.exe
+C:\Users\amritbista\source\repos\Constructor Injection\Constructor Injection\bin\Debug\Constructor Injection.pdb
+C:\Users\amritbista\source\repos\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.csproj.SuggestedBindingRedirects.cache
+C:\Users\amritbista\source\repos\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.exe
+C:\Users\amritbista\source\repos\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.pdb
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Constructor Injection\Constructor Injection\bin\Debug\Constructor Injection.exe.config
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Constructor Injection\Constructor Injection\bin\Debug\Constructor Injection.exe
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Constructor Injection\Constructor Injection\bin\Debug\Constructor Injection.pdb
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.csproj.AssemblyReference.cache
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.csproj.CoreCompileInputs.cache
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.exe
+C:\Users\aamritbistaa\Desktop\dotnet - General Technology\Constructor Injection\Constructor Injection\obj\Debug\Constructor Injection.pdb
