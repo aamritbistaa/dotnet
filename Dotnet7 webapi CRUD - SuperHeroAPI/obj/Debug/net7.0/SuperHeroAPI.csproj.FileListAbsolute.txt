@@ -1,0 +1,66 @@
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.exe
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.deps.json
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.runtimeconfig.json
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.dll
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.pdb
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amritbista\source\repos\SuperHeroAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.csproj.AssemblyReference.cache
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.AssemblyInfoInputs.cache
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.AssemblyInfo.cs
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.csproj.CoreCompileInputs.cache
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\staticwebassets\msbuild.SuperHeroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SuperHeroAPI.props
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SuperHeroAPI.props
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SuperHeroAPI.props
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\scopedcss\bundle\SuperHeroAPI.styles.css
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.csproj.CopyComplete
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.dll
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\refint\SuperHeroAPI.dll
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.pdb
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.genruntimeconfig.cache
+C:\Users\amritbista\source\repos\SuperHeroAPI\obj\Debug\net7.0\ref\SuperHeroAPI.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.csproj.AssemblyReference.cache
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.AssemblyInfoInputs.cache
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.AssemblyInfo.cs
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.csproj.CoreCompileInputs.cache
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\refint\SuperHeroAPI.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.pdb
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\appsettings.json
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.exe
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.deps.json
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.runtimeconfig.json
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\SuperHeroAPI.pdb
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\staticwebassets\msbuild.SuperHeroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SuperHeroAPI.props
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SuperHeroAPI.props
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SuperHeroAPI.props
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\scopedcss\bundle\SuperHeroAPI.styles.css
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.csproj.CopyComplete
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\SuperHeroAPI.genruntimeconfig.cache
+D:\Dotnet7 webapi CRUD - SuperHeroAPI\obj\Debug\net7.0\ref\SuperHeroAPI.dll
