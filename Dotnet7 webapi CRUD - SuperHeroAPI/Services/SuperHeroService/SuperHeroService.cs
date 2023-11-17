@@ -1,45 +1,32 @@
-﻿using SuperHeroAPI.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using SuperHeroAPI.Data;
+using SuperHeroAPI.Models;
 
 namespace SuperHeroAPI.Services.SuperHeroService
 {
     public class SuperHeroService : ISuperHeroService
     {
-        private static List<SuperHero> superHeros = new List<SuperHero>
-            {
-                new SuperHero{Id= 1,Name = "SpiderName",FirstName= "Peter",LastName= "parker", Place="NY"},
-                new SuperHero{Id=2, Name="DUmmy Boy", FirstName="Danny",LastName="Tummy", Place="China"}
-            };
-        public List<SuperHero> AddSuperHero(SuperHero obj)
+        //private static List<SuperHero> superHeros = new List<SuperHero>
+        //    {
+        //        new SuperHero{Id= 1,Name = "SpiderName",FirstName= "Peter",LastName= "parker", Place="NY"},
+        //        new SuperHero{Id=2, Name="DUmmy Boy", FirstName="Danny",LastName="Tummy", Place="China"}
+        //    };
+
+        private readonly DataContext _context;
+        public SuperHeroService(DataContext context)
         {
-            superHeros.Add(obj);
-            return superHeros;
+            _context = context;
+            
+        }
+        public async Task<List<SuperHero>> GetAllSuperHero()
+        {
+            var heros = await _context.Table_SuperHeros.ToListAsync();
+            return heros;
         }
 
-        public List<SuperHero>? DeleteSuperHero(int id)
+        public async Task<SuperHero?> GetByID(int id)
         {
-
-            var hero = superHeros.Find(x => x.Id == id);
-            if (hero == null)
-            {
-                return null;
-            }
-            else
-            {
-
-                superHeros.Remove(hero);
-                return superHeros;
-
-            }
-        }
-
-        public List<SuperHero> GetAllSuperHero()
-        {
-            return superHeros;
-        }
-
-        public List<SuperHero>? GetByID(int id)
-        {
-            var item = superHeros.FindAll(x => x.Id == id);
+            var item = await _context.Table_SuperHeros.FindAsync(id);
 
             if (item == null)
             {
@@ -52,11 +39,36 @@ namespace SuperHeroAPI.Services.SuperHeroService
 
             }
         }
+        public async Task<List<SuperHero>> AddSuperHero(SuperHero obj)
+        {
+            await _context.Table_SuperHeros.AddAsync(obj);
+            await _context.SaveChangesAsync();
+            return await _context.Table_SuperHeros.ToListAsync();
+        }
 
-        public List<SuperHero>? UpdateSuperHero(int id, SuperHero request)
+        public async Task<List<SuperHero>?> DeleteSuperHero(int id)
         {
 
-            var hero = superHeros.Find(x => x.Id == id);
+            var hero = await _context.Table_SuperHeros.FindAsync(id);
+            if (hero == null)
+            {
+                return null;
+            }
+            else
+            {
+                _context.Table_SuperHeros.Remove(hero);
+                await _context.SaveChangesAsync();
+                return await _context.Table_SuperHeros.ToListAsync();
+
+            }
+        }
+
+        
+
+        public async Task<List<SuperHero>?> UpdateSuperHero(int id, SuperHero request)
+        {
+
+            var hero = await _context.Table_SuperHeros.FindAsync(id);
 
             if (hero == null)
             {
@@ -68,7 +80,9 @@ namespace SuperHeroAPI.Services.SuperHeroService
                 hero.FirstName = request.FirstName;
                 hero.LastName = request.LastName;
                 hero.Place = request.Place;
-                return superHeros;
+
+                await _context.SaveChangesAsync();
+                return await _context.Table_SuperHeros.ToListAsync();
             }
         }
     }

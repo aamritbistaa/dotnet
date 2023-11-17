@@ -19,7 +19,7 @@ namespace SuperHeroAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<List<SuperHero>>> GetAllSuperHero()
         {
-            var result = _superHeroService.GetAllSuperHero();
+            var result = await _superHeroService.GetAllSuperHero();
             return Ok(result);
         }
         [HttpGet("{id}")]
@@ -27,8 +27,7 @@ namespace SuperHeroAPI.Controllers
         {
             try
             {
-
-            var result = _superHeroService.GetByID(id);
+            var result = await _superHeroService.GetByID(id);
             if (result == null)
             {
                 return NotFound("Item doesnot exist");
@@ -49,8 +48,8 @@ namespace SuperHeroAPI.Controllers
         {
             try
             {
-                _superHeroService.AddSuperHero(obj);
-                return Ok(obj);
+                var res = await _superHeroService.AddSuperHero(obj);
+                return Ok(res);
                 
             }
             catch (Exception ex)
@@ -64,7 +63,7 @@ namespace SuperHeroAPI.Controllers
         {
             try
             {
-                var result = _superHeroService.UpdateSuperHero(id,request);
+                var result = await _superHeroService.UpdateSuperHero(id,request);
                 if (result == null)
                     return NotFound("Item does not exist");
                 else
@@ -83,7 +82,7 @@ namespace SuperHeroAPI.Controllers
         {
             try
             {
-                var result = _superHeroService.DeleteSuperHero(id);
+                var result = await _superHeroService.DeleteSuperHero(id);
                 if (result == null)
                     return NotFound("Item does not exist");
                 else

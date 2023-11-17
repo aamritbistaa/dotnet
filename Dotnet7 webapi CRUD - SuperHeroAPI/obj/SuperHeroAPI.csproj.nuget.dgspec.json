@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet7 webapi CRUD - SuperHeroAPI\\SuperHeroAPI.csproj": {}
+    "D:\\dotnet\\Dotnet7 webapi CRUD - SuperHeroAPI\\SuperHeroAPI.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet7 webapi CRUD - SuperHeroAPI\\SuperHeroAPI.csproj": {
+    "D:\\dotnet\\Dotnet7 webapi CRUD - SuperHeroAPI\\SuperHeroAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet7 webapi CRUD - SuperHeroAPI\\SuperHeroAPI.csproj",
+        "projectUniqueName": "D:\\dotnet\\Dotnet7 webapi CRUD - SuperHeroAPI\\SuperHeroAPI.csproj",
         "projectName": "SuperHeroAPI",
-        "projectPath": "D:\\Dotnet7 webapi CRUD - SuperHeroAPI\\SuperHeroAPI.csproj",
+        "projectPath": "D:\\dotnet\\Dotnet7 webapi CRUD - SuperHeroAPI\\SuperHeroAPI.csproj",
         "packagesPath": "C:\\Users\\amritbista\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet7 webapi CRUD - SuperHeroAPI\\obj\\",
+        "outputPath": "D:\\dotnet\\Dotnet7 webapi CRUD - SuperHeroAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amritbista\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
