@@ -1,0 +1,58 @@
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\appsettings.json
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.exe
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.deps.json
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.runtimeconfig.json
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.dll
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.pdb
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.Contracts.dll
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.Contracts.pdb
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.csproj.AssemblyReference.cache
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.AssemblyInfoInputs.cache
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.AssemblyInfo.cs
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.BuberBreakfast.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.build.BuberBreakfast.props
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BuberBreakfast.props
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BuberBreakfast.props
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\scopedcss\bundle\BuberBreakfast.styles.css
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBre.97857795.Up2Date
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.dll
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\refint\BuberBreakfast.dll
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.pdb
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.genruntimeconfig.cache
+C:\Users\aamritbistaa\OneDrive\Desktop\DotnetCore\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\ref\BuberBreakfast.dll
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\appsettings.Development.json
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\appsettings.json
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.exe
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.deps.json
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.runtimeconfig.json
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.dll
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.pdb
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.Contracts.dll
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.Contracts.pdb
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.csproj.AssemblyReference.cache
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.AssemblyInfoInputs.cache
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.AssemblyInfo.cs
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.csproj.CoreCompileInputs.cache
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.build.json
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.development.json
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.BuberBreakfast.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.build.BuberBreakfast.props
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BuberBreakfast.props
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BuberBreakfast.props
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\scopedcss\bundle\BuberBreakfast.styles.css
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBre.97857795.Up2Date
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.dll
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\refint\BuberBreakfast.dll
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.pdb
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.genruntimeconfig.cache
+D:\Just Files\C# - Dotnet Project\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\ref\BuberBreakfast.dll

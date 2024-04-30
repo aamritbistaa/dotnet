@@ -1,0 +1,40 @@
+GET http://localhost:5052/games
+
+###
+GET http://localhost:5052/games/4
+
+###
+POST http://localhost:5052/games
+Content-Type: application/json
+
+{
+    "name":"Wick",
+    "genreId":1,
+    "price":"23.19",
+    "releaseDate":"2022-02-10"
+}
+
+###
+PUT http://localhost:5052/games/4
+Content-Type: application/json
+
+{
+    "name":"asd",
+    "genreId":3,
+    "price":"10.00",
+    "releaseDate":"2022-10-10"
+}
+
+###
+DELETE  http://localhost:5052/games/4
+
+###
+POST http://localhost:5052/games
+Content-Type: application/json
+
+{
+    "name":"ModernWarfare",
+    "genreId":1,
+    "price":"15.00",
+    "releaseDate":"2022-10-10"
+}
