@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Just Files\\C# - Dotnet Project\\dotnet\\BuberBreakfast\\SomeC#problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1FEB01-88E2-4442-805C-CC75CAC9E821}|SomeC#problem\\SomeC#problem.csproj|d:\\just files\\c# - dotnet project\\dotnet\\buberbreakfast\\somec#problem\\somec#problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1FEB01-88E2-4442-805C-CC75CAC9E821}|SomeC#problem\\SomeC#problem.csproj|solutionrelative:somec#problem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1FEB01-88E2-4442-805C-CC75CAC9E821}|SomeC#problem\\SomeC#problem.csproj|d:\\just files\\c# - dotnet project\\dotnet\\buberbreakfast\\somec#problem\\somec#problem\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1FEB01-88E2-4442-805C-CC75CAC9E821}|SomeC#problem\\SomeC#problem.csproj|solutionrelative:somec#problem\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brain.cs",
+              "DocumentMoniker": "D:\\Just Files\\C# - Dotnet Project\\dotnet\\BuberBreakfast\\SomeC#problem\\SomeC#problem\\Brain.cs",
+              "RelativeDocumentMoniker": "SomeC#problem\\Brain.cs",
+              "ToolTip": "D:\\Just Files\\C# - Dotnet Project\\dotnet\\BuberBreakfast\\SomeC#problem\\SomeC#problem\\Brain.cs",
+              "RelativeToolTip": "SomeC#problem\\Brain.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:26:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Just Files\\C# - Dotnet Project\\dotnet\\BuberBreakfast\\SomeC#problem\\SomeC#problem\\Program.cs",
+              "RelativeDocumentMoniker": "SomeC#problem\\Program.cs",
+              "ToolTip": "D:\\Just Files\\C# - Dotnet Project\\dotnet\\BuberBreakfast\\SomeC#problem\\SomeC#problem\\Program.cs",
+              "RelativeToolTip": "SomeC#problem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:26:10.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

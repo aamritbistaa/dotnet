@@ -1,0 +1,15 @@
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\bin\Debug\net6.0\SomeC#problem.exe
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\bin\Debug\net6.0\SomeC#problem.deps.json
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\bin\Debug\net6.0\SomeC#problem.runtimeconfig.json
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\bin\Debug\net6.0\SomeC#problem.dll
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\bin\Debug\net6.0\SomeC#problem.pdb
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\SomeC#problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\SomeC#problem.AssemblyInfoInputs.cache
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\SomeC#problem.AssemblyInfo.cs
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\SomeC#problem.csproj.CoreCompileInputs.cache
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\SomeC#problem.sourcelink.json
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\SomeC#problem.dll
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\refint\SomeC#problem.dll
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\SomeC#problem.pdb
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\SomeC#problem.genruntimeconfig.cache
+D:\Just Files\C# - Dotnet Project\dotnet\BuberBreakfast\SomeC#problem\SomeC#problem\obj\Debug\net6.0\ref\SomeC#problem.dll
